@@ -1,2 +1,2 @@
-# bootcamphw
-This repository will be for weekly homework assignments in the full-stack flex bootcamp
+# bootcamphq
+This repository will be for weekly commits (ie. homework, exercises, projects, etc). 
