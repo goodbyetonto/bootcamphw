@@ -13,7 +13,7 @@ Lines 11, 26-29, 35, 36, 42, 43, 49, 50-52, 58, 59, 65, 66, 72, 73: Changed <div
 
 <aside>: Signifying a child element of <article>, <aside> serves to replace <div> in such a way so as to enhance your SEO and maintain a high level of both markdown readability and site compliance. 
 
-Line 75: Changed <h2> to <h4> to keep a logical flow to your header tags. Sytling was not adjusted, just the tag itself. 
+Line 75: Changed '<h2>' to '<h4>' to keep a logical flow to your header tags. Sytling was not adjusted, just the tag itself. 
   
 Lines 29-50: Where appropriate, where 'class' designations were made on elements that had, not exclusive styling needs, but rather specific identifiable content (ie. web-copy, graphics, etc), the 'id' designation was used, to communicate that level of exclusivity. Any necessary changes to the CSS file were made in accordance with these changes (ie. '.classname' changed to '#idname'). 
 
