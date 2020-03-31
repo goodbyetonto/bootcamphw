@@ -1,7 +1,7 @@
 # https-goodbyetonto.github.io-Horiseon_Accessibility_Initiative-
 For more information on ADA web accessibility guidelines: https://www.ada.gov/pcatoolkit/chap5toolkit.htm
 
-Please note all changes to original html below, listed by line number from original index.html. When opening tags (ie. <tag> are referenced, it is assumed that their closing (ie. </tag>) counterparts are included.
+Please note all changes to original html below, listed by line number from original index.html. When opening tags are referenced, it is assumed that their closing counterparts are included in any edits to the original markdown.
 
 Line 7: Changed 'title' content from 'Website' to 'Horiseon Homepage' 
 
